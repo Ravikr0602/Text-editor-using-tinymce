@@ -1,0 +1,16 @@
+If you link Text-Editor then follow all below step:
+
+step 1: Go to google tinymce
+step 2: open first link "TinyMCE: The Most Advanced WYSIWYG HTML Editor ."
+step 3: create account 
+step 4: then generate Tiny API key
+
+Tiny API Key is a unique token that links your TinyMCE instances to your account. It grants you access to all of our Premium Plugins during your free trial.
+
+step 5: go to script file and add script src = " Your Own API key....."
+
+step 6: In Html form add id in textarea if take id = anything.. this is your choice..
+step 7 : put id name in script file in ---> selector: " your choose id name",
+
+Done!
+Thank You!
